@@ -1,0 +1,207 @@
+[
+    {
+        "id":1,
+        "s1img1": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Revise/Halo/Men._SS300_QL85_FMpng_.png",
+        "s1p1": "Men's clothing",
+
+        "s1img2": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Revise/Halo/Women._SS300_QL85_FMpng_.png",
+        "s1p2": "Women's clothing",
+
+        "s1img3": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Revise/Halo/Kids._SS300_QL85_FMpng_.png",
+        "s1p3": "Kid's fashion",
+
+        "s1img4": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Revise/Halo/Footwear._SS300_QL85_FMpng_.png",
+        "s1p4": "Footwear",
+
+        "s1img5": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Revise/Halo/Luggage._SS300_QL85_FMpng_.png",
+        "s1p5": "Luggage & bags",
+
+        "s1img6": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Revise/Halo/Jewellery._SS300_QL85_FMpng_.png",
+        "s1p6": "Jewellery",
+
+        "s1img7": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Revise/Halo/Watches._SS300_QL85_FMpng_.png",
+        "s1p7": "Watches",
+
+        "s1img8": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Revise/Halo/Beauty._SS300_QL85_FMpng_.png",
+        "s1p8": "Beauty",
+
+        "s1img9": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Revise/Halo/Handbags._SS300_QL85_FMpng_.png",
+        "s1p9": "Handbags",
+
+        "s1img10": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Revise/Halo/Eyewear._SS300_QL85_FMpng_.png",
+        "s1p10": "Eyeswear",
+
+        "s1img11": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/NewSeasonHalo/AF_Halo._SS300_QL85_FMpng_.png",
+        "s1p11": "New Season",
+
+        "s1img12": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Revise/Halo/Serve._SS300_QL85_FMpng_.png",
+        "s1p12": "Gen-z",
+
+        "s1img13": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Revise/Halo/SPB._SS300_QL85_FMpng_.png",
+        "s1p13": "Amazon brands"
+    }
+    ,
+    {
+        "id":2,
+
+        "s2img1": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/UnrecStripes/PC._CB784546560_.jpg",
+
+        "s2img2": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MayArt26Event/Bank/CBCC_6.png",
+
+        "s2img3": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MayBAU/HDFC.png",
+
+        "s2img4": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MayArt26Event/Bank/ICICI.png",
+
+        "s2img5": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MayArt26Event/Bank/BOB_Card.png",
+
+        "s2img6": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MayBAU/HSBC.png",
+
+        "s2img7": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MayBAU/Kotak.png",
+
+        "s2img8": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MayBAU/One_card.png",
+
+        "s2img9": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MayBAU/Scapia_federal.png",
+
+        "s2img10": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MayBAU/Yes_Bank.png"
+    }
+    ,
+    {
+        "id":3,
+
+        "s3img1": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MayArt26Event/Ingress/Unrec_PC._SX1500_QL85_.jpg",
+
+        "s3img2": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Unrec/TopHero/PC/PC._SX1500_QL85_FMpng_.png",
+
+        "s3img3": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Unrec/TopHero/PC/Mens_clothing_1500x460._SX1500_QL85_FMpng_.png",
+
+        "s3img4": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Unrec/TopHero/PC/Footwear_1500x460._SX1500_QL85_FMpng_.png",
+
+        "s3img5": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Unrec/TopHero/Mob/V1/Classic_ethnic_wear_1500x460._SX1500_QL85_FMpng_.png",
+
+        "s3img6": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Unrec/TopHero/Luggage/Luggage_2._SX1500_QL85_FMpng_.png",
+
+        "s3img7": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Unrec/TopHero/PC/Beauty_1500x460._SX1500_QL85_FMpng_.png",
+
+        "s3img8": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Unrec/TopHero/PC/Festive_jewellery_1500x460._SX1500_QL85_FMpng_.png",
+
+        "s3img9": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Unrec/TopHero/PC/Handbags_1500x460._SX1500_QL85_FMpng_.png"
+    }
+    ,
+    {
+        "id":4,
+
+        "s4img1": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/TopBrands/V1/Anni_designer_412x540._CB785692084_.png",
+
+        "s4img2": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/TopBrands/V1/Janasya_412x540._CB785692084_.png",
+
+        "s4img3": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/Unrec/Topbrands/Lavie/Lavie._CB786135277_.png",
+
+        "s4img4": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/TopBrands/Unrec/Lakme_412x540._CB785708723_.png",
+
+        "s4img5": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/TopBrands/Unrec/Allen_Solly_412x540._CB785708723_.png",
+
+        "s4img6": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/TopBrands/V1/Voylla_412x540._CB785692084_.png",
+
+        "s4img7": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/TopBrands/Unrec/Liberty_412x540._CB785708723_.png",
+
+        "s4img8": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/TopBrands/Unrec/Dove_412x540._CB785708723_.png",
+
+        "s4img9": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/TopBrands/V1/Van_Heusen_412x540._CB785692084_.png",
+
+        "s4img10": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/TopBrands/Unrec/Aristocrat_412x540._CB785708723_.png",
+
+        "s4img11": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/TopBrands/Unrec/Swadesi_Stuff_412x540._CB785708723_.png",
+
+        "s4img12": "https://m.media-amazon.com/images/G/31/IMG25/Fashion/MarchSSFlipBAU/TopBrands/Unrec/Symbol_412x540._CB785708723_.png"
+    }
+    ,
+    {
+        "id":5,
+        "s5img1": "https://m.media-amazon.com/images/I/71vRZZ+FCiL._SX679_.jpg",
+        "s5img2": "https://m.media-amazon.com/images/I/41BMg4wRFGL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s5img3": "https://m.media-amazon.com/images/I/41nMxiHfxHL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s5img4": "https://m.media-amazon.com/images/I/4126w6GI33L._SY300_SX300_QL70_FMwebp_.jpg",
+        "s5img5": "https://m.media-amazon.com/images/I/417uJjA57yL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s5img6": "https://m.media-amazon.com/images/I/41Z3zn7d+JL._SY300_SX300_QL70_FMwebp_.jpg"
+    }
+    ,
+    {
+        "id":6,
+        "s6img1": "https://m.media-amazon.com/images/I/71aaW7HXKnL._SX522_.jpg",
+        "s6img2": "https://m.media-amazon.com/images/I/41Lnd4x1gTL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s6img3": "https://m.media-amazon.com/images/I/414m0VuRT+L._SY300_SX300_QL70_FMwebp_.jpg",
+        "s6img4": "https://m.media-amazon.com/images/I/31CnLZpShNL._SX342_SY445_QL70_FMwebp_.jpg",
+        "s6img5": "https://m.media-amazon.com/images/I/41gggAvZQ1L._SY300_SX300_QL70_FMwebp_.jpg",
+        "s6img6": "https://m.media-amazon.com/images/I/41WExzyDMdL._SY300_SX300_QL70_FMwebp_.jpg"
+    }
+    ,
+    {
+        "id":7,
+        "s7img1": "https://m.media-amazon.com/images/I/41w6+F8-XKL._SX342_SY445_QL70_FMwebp_.jpg",
+        "s7img2": "https://m.media-amazon.com/images/I/41LwoCzdhXL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s7img3": "https://m.media-amazon.com/images/I/41Xlp7n91CL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s7img4": "https://m.media-amazon.com/images/I/614scKF+SeL._SX522_.jpg",
+        "s7img5": "https://m.media-amazon.com/images/I/41lZMWYdORL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s7img6": "https://m.media-amazon.com/images/I/419CYQ4W6EL._SY300_SX300_QL70_FMwebp_.jpg"
+    }
+    ,
+    {
+        "id":8,
+        "s8img1": "https://m.media-amazon.com/images/I/31aQAy2F1YL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s8img2": "https://m.media-amazon.com/images/I/317w4agd9FL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s8img3": "https://m.media-amazon.com/images/I/41zS0YhMh1L._SY300_SX300_QL70_FMwebp_.jpg",
+        "s8img4": "https://m.media-amazon.com/images/I/61+9kNCR0OL._SX679_.jpg",
+        "s8img5": "https://m.media-amazon.com/images/I/31RzcSwwH0L._SY300_SX300_QL70_FMwebp_.jpg",
+        "s8img6": "https://m.media-amazon.com/images/I/41Zgq+znCnL._SY300_SX300_QL70_FMwebp_.jpg"
+    }
+    ,
+    {
+        "id":9,
+        "s9img1": "https://m.media-amazon.com/images/I/51b5sh94f7L._SY300_SX300_QL70_FMwebp_.jpg",
+        "s9img2": "https://m.media-amazon.com/images/I/41zrN4NMR1L._SY300_SX300_QL70_FMwebp_.jpg",
+        "s9img3": "https://m.media-amazon.com/images/I/610LwYisf7L._SX679_.jpg",
+        "s9img4": "https://m.media-amazon.com/images/I/31wPh56iCnL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s9img5": "https://m.media-amazon.com/images/I/417iSje2TvL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s9img6": "https://m.media-amazon.com/images/I/21fN51pjkPL._SY300_SX300_QL70_FMwebp_.jpg"
+    }
+    ,
+    {
+        "id":10,
+        "s10img1": "https://m.media-amazon.com/images/I/311qC0RzrkL._SX342_SY445_QL70_FMwebp_.jpg",
+        "s10img2": "https://m.media-amazon.com/images/I/41EPFHuPdBL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s10img3": "https://m.media-amazon.com/images/I/41iXHIr0ISL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s10img4": "https://m.media-amazon.com/images/I/31r0+JhEvXL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s10img5": "https://m.media-amazon.com/images/I/21h8pckKs+L._SY300_SX300_QL70_FMwebp_.jpg",
+        "s10img6": "https://m.media-amazon.com/images/I/21WvESZs2dL._SY300_SX300_QL70_FMwebp_.jpg"
+    }
+    ,
+    {
+        "id":11,
+        "s11img1": "https://m.media-amazon.com/images/I/31i1-V9BS1L._SY300_SX300_QL70_FMwebp_.jpg",
+        "s11img2": "https://m.media-amazon.com/images/I/414XEaIxvML._SX342_SY445_QL70_FMwebp_.jpg",
+        "s11img3": "https://m.media-amazon.com/images/I/41OFXY6pMRL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s11img4": "https://m.media-amazon.com/images/I/31FZy2hkLNL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s11img5": "https://m.media-amazon.com/images/I/21h-Dta-wXL._SX342_SY445_QL70_FMwebp_.jpg",
+        "s11img6": "https://m.media-amazon.com/images/I/41JkhDLP0+L._SY300_SX300_QL70_FMwebp_.jpg"
+    }
+    ,
+    {
+        "id":12,
+        "s12img1": "https://m.media-amazon.com/images/I/51k1TueixlL._SX679_.jpg",
+        "s12img2": "https://m.media-amazon.com/images/I/41Vf6L7gFAL._SX342_SY445_QL70_FMwebp_.jpg",
+        "s12img3": "https://m.media-amazon.com/images/I/41iStc1FhIL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s12img4": "https://m.media-amazon.com/images/I/41HTFICKC0L._SY300_SX300_QL70_FMwebp_.jpg",
+        "s12img5": "https://m.media-amazon.com/images/I/41hkzqroNsL._SX342_SY445_QL70_FMwebp_.jpg",
+        "s12img6": "https://m.media-amazon.com/images/I/41CD6VzPnnL._SY300_SX300_QL70_FMwebp_.jpg"
+    }
+    ,
+    {
+        "id":13,
+        "s13img1": "https://m.media-amazon.com/images/I/41aNzvouxiL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s13img2": "https://m.media-amazon.com/images/I/41g3Bt8+6RL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s13img3": "https://m.media-amazon.com/images/I/41PhzceVDlL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s13img4": "https://m.media-amazon.com/images/I/31EU-YCOl9L._SY300_SX300_QL70_FMwebp_.jpg",
+        "s13img5": "https://m.media-amazon.com/images/I/41FhDrZipvL._SY300_SX300_QL70_FMwebp_.jpg",
+        "s13img6": "https://m.media-amazon.com/images/I/21Z3cEAYjmL._SY300_SX300_QL70_FMwebp_.jpg"
+    }
+]

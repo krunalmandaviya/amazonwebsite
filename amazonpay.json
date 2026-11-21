@@ -1,0 +1,193 @@
+[
+    {
+        "id":1,
+
+        "s1img0":"https://m.media-amazon.com/images/G/31/apay/dashboard/apay-sticker-desktop-t1._CB433219863_.png",
+
+        "s1h1": "Travel",
+
+        "s1img1": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Flight._CB616315948_.png",
+        "s1p1": "Flights",
+
+        "s1img2": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Bus._CB616315948_.png",
+        "s1p2": "Bus Tickets",
+
+        "s1img3": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Train._CB616315951_.png",
+        "s1p3": "Trains"
+    }
+    ,
+    {
+        "id":2,
+
+        "s2h1": "Recharges",
+
+        "s2img1": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Mobile_Rec._CB616315948_.png",
+        "s2p1": "Mobile Recharge",
+
+        "s2img2": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Apple_code._CB616315948_.png",
+        "s2p2": "App Store Code",
+
+        "s2img3": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_DTH._CB616315948_.png",
+        "s2p3": "DTH Recharge",
+
+        "s2img4": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/APD_icon_GPRC._CB594689751_.png",
+        "s2p4": "Google Play Recharge"
+    }
+    ,
+    {
+        "id":3,
+
+        "s3h1": "Recharges",
+
+        "s3img1": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Elec._CB616315948_.png",
+        "s3p1": "Electricity",
+
+        "s3img2": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_M_Postoaid._CB616315951_.png",
+        "s3p2": "Mobile Postpaid",
+
+        "s3img3": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_CC_Bill._CB616315951_.png",
+        "s3p3": "Credit Card Bill",
+
+        "s3img4": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Laon_Rep._CB616315951_.png",
+        "s3p4": "Loan Repaymnet",
+
+        "s3img5": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_LPG._CB616315951_.png",
+        "s3p5": "LPG",
+
+        "s3img6": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Ins_Premium._CB616315948_.png",
+        "s3p6": "Insurance Premium",
+
+        "s3img7": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Pipegas._CB616315948_.png",
+        "s3p7": "Piped Gas",
+
+        "s3img8": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Water._CB616315951_.png",
+        "s3p8": "Water Bill",
+
+        "s3img9": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_CC_Bill._CB616315951_.png",
+        "s3p9": "Landline",
+
+        "s3img10": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Braodband._CB616315948_.png",
+        "s3p10": "Broadband",
+
+        "s3img11": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_M_Tax._CB616315951_.png",
+        "s3p11": "Municipal Tax",
+
+        "s3img12": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_CableTV._CB616315948_.png",
+        "s3p12": "Cable TV",
+
+        "s3img13": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Edu_fee._CB616315948_.png",
+        "s3p13": "Education Fees"
+    }
+    ,
+    {
+        "id":4,
+
+        "s4h1": "Daily Transit",
+
+        "s4img1": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/APD_icon_Amazon_Pay_ICICI_Fastag._CB600226984_.png",
+        "s4p1": "Amazon Pay ICICI FASTag",
+
+        "s4img2": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/APD_icon_Fastag_Recharge._CB600226984_.png",
+        "s4p2": "FASTag Recharge",
+
+        "s4img3": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Metro._CB616315948_.png",
+        "s4p3": "Metro Recharge"
+    }
+    ,
+    {
+        "id":5,
+
+        "s5h1": "Insurance (amazonpayinsurance.in)",
+
+        "s5img1": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Car_Ins._CB616315948_.png",
+        "s5p1": "Car Insurance",
+
+        "s5img2": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Bike_Ins._CB616315948_.png",
+        "s5p2": "Bike Insurance",
+
+        "s5img3": "https://m.media-amazon.com/images/G/31/img24/Apay/Icons/APD/Health_APD_icon_2._CB803389592_.png",
+        "s5p3": "Health Recharge"
+    }
+    ,
+    {
+        "id":6,
+
+        "s6h1": "Gift Cards and Vouchers",
+
+        "s6img1": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_AddGC._CB616315948_.png",
+        "s6p1": "Add Gift Card",
+
+        "s6img2": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_All_GC._CB616315948_.png",
+        "s6p2": "Gift Card",
+
+        "s6img3": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/125x125_icon_Subtle_Yellow_copy1_Amazon_Voucher._CB617212892_.png",
+        "s6p3": "Amazon Vouchers",
+
+        "s6img4": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_Brand_vouchers._CB616315948_.png",
+        "s6p4": "Brand Vouchers",
+
+        "s6img5": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/V1_Filledicons/icon_set_Pratima_BGC._CB616315948_.png",
+        "s6p5": "Birthday Giftcards",
+
+        "s6img6": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/125x125_icon_Subtle_Yellow_copy1_Wedding_Giftcards._CB617212892_.png",
+        "s6p6": "Wedding Giftcards",
+
+        "s6img7": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/125x125_icon_Subtle_Yellow_copy1_CorporateGC._CB617212892_.png",
+        "s6p7": "Corporate Gifting"
+    }
+    ,
+    {
+        "id":7,
+
+        "s7h1": "Manage",
+
+        "s7img1": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/Desktop/Desktop_APD_view-statement._CB612762929_.png",
+        "s7p1": "Your Transaction",
+
+        "s7img2": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/Desktop/Desktop_APD_your-rewards._CB612762929_.png",
+        "s7p2": "Your Rewards",
+
+        "s7img3": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/Desktop/Desktop_APD_covid._CB612762929_.png",
+        "s7p3": "Covid-19 Donation",
+
+        "s7img4": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/Desktop/Desktop_APD_EMI-new._CB612762929_.png",
+        "s7p4": "EMI",
+
+        "s7img5": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/Desktop/Desktop_APD_saved-cards._CB612762929_.png",
+        "s7p5": "Your Saved Cards",
+
+        "s7img6": "https://m.media-amazon.com/images/G/31/img22/Apay/Icons/APD_NewIcons/Desktop/Desktop_APD_help-desktop._CB612762929_.png",
+        "s7p6": "Help and FAQs",
+
+        "s7img7": "https://m.media-amazon.com/images/G/31/img24/Apay/Icons/APD/Lodge-a-Complaint-APD-icon_125x125._CB539551674_.png",
+        "s7p7": "Lodges a complaint",
+
+        "s7img8": "https://m.media-amazon.com/images/G/31/img19/AmazonPay/Machum/2025/Complaint_History_icon._CB803209080_.png",
+        "s7p8": "Complaint History"
+    }
+    ,
+    {
+        "id":8,
+        "s8img1": "https://m.media-amazon.com/images/G/31/img19/AmazonPay/Surbhi/2021/Sep/APDPC/PC_Dashboar_770x150_P2P_2._CB642078759_.jpg"
+    }
+    ,
+    {
+        "id":9,
+        "s9img1": "https://m.media-amazon.com/images/G/31/img19/AmazonPay/Surbhi/2021/Sep/APDPC/PC_Dashboar_770x150_Bills_2._CB642078759_.jpg"
+    }
+    ,
+    {
+        "id":10,
+        "s10img1": "https://m.media-amazon.com/images/G/31/img19/AmazonPay/Kartik/R2UC/Shopping/LPA/Revised/PC_Dashboard_770x150_LPA._CB647720738_.jpg"
+    }
+    ,
+    {
+        "id":11,
+        "s11img1": "https://m.media-amazon.com/images/G/31/APAYMOVIE/APAYTRAVEL/Train_PC_Dashboar_770x150._CB616078946_.jpg"
+    }
+    ,
+    {
+        "id":12,
+        "s12img1": "https://m.media-amazon.com/images/G/31/img19/AmazonPay/Acko/May21/PC_Dashboar_770x150_02._CB666565828_.jpg"
+    }
+]

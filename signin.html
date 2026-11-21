@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Sign in page</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favorite icon  -->
+    <link rel="icon" href="https://thumbs.dreamstime.com/b/amazon-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-ai-amazon-logo-editorial-illustrative-208329107.jpg">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>  
+    <style>
+        .divider{
+    display: flex;
+    justify-content: center;
+    margin: 20px 0;
+    }
+    .divider hr{
+        flex: 1;
+        border-top: 1px solid #ccc;
+    }
+    .divider span{
+        margin: 0 15px;
+    }
+    </style>
+
+
+  </head>
+  <body>
+
+
+    <!-- Section 1 -->
+
+    <div class="section1">
+        <div class="container-fluid">
+        <h1 class="text-center"><b>amazon</b></h1>
+        <div class="box1 p-4 mx-auto mb-5"  style="border: 1px solid  #d5d9d9; border-radius: 8px; max-width:350px;">
+            <h4>Sign in or create account</h4>
+            <b>Enter mobile number or email</b>
+            <input type="text" id="text" class="form-control mb-3">
+            <p id="error" style="color: red;"></p> 
+            <a href="#" class="btn btn-warning btn-block py-2 " id="continue" style=" border-radius: 20px;">Continue</a> <br>
+            <div><small>By continuing, you agree to Amazon's <span><a href="#">Conditions of Use</a></span> and <span><a href="#">Privacy Notice.</a></span></small></div><br>
+            <hr class="mt-0" style="background-color: #d5d9d9;">
+            <b class="d-block">Buying for work?</b>
+            <small><a href="#">Create a free business account</a></small>
+        </div>
+        <div class="box2 mx-auto" style="max-width:350px;">
+            <div class="divider">
+            <hr>
+            <span><small>New to Amazon?</small></span>
+            <hr>
+            </div>
+            <a href="registration.html" class="btn  btn-block py-1" id="continue" style="border: 1px solid #d5d9d9; border-radius: 20px;"><b>Create your amazon account</b></a>
+        </div>
+        <hr style="background-color: #d5d9d9;">
+        <div class="d-flex justify-content-center">
+            <a href="#"><small class="mr-3">Conditions of use</small></a>
+            <a href="#"><small class="mr-3">Privacy notice</small></a>
+            <a href="#"><small>Help</small></a>
+        </div>
+        <p class="text-center"><small>© 1996–2026, Amazon.com, Inc. or its affiliates</small></p>
+        </div>
+    </div>
+
+
+
+
+    <script>
+    $(document).ready(function(){
+        $("#continue").click(function(e){
+            e.preventDefault();
+            let text = $("#text").val();
+
+            let checkemail = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/;
+            let checkmobile = /^[0-9]{10}$/;
+
+            $("#error").html("");
+
+            if(text == ""){
+                $("#error").html("Enter mobile number or email");
+            }
+
+            else if(checkemail.test(text)){
+                alert("Valid Email");
+            }
+
+            else if(checkmobile.test(text)){
+                alert("Valid Mobile Number");
+            }
+
+            else{
+                $("#error").html("Enter valid mobile number or email");
+            }
+        });
+    });
+    </script>
+
+
+      
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>

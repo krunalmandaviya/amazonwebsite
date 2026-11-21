@@ -1,0 +1,91 @@
+[
+    {
+        "id": 1,
+        "s1h1": "amazon prime",
+        "s1p1": "One membership, many benefits",
+        "s1img1": "prime.png"
+    }
+    ,
+    {
+        "id":2,
+        "s2img1":"https://m.media-amazon.com/images/I/312RRH1DcOL.png",
+        "s2h1":"Prime Delivery",
+        "s2p1_1":"Unlimited FREE FAST delivery",
+        "s2p1_2":"Same-day, 1-day delivery",
+        "s2img2":"https://m.media-amazon.com/images/I/51rss02722L.png",
+        "s2h2":"Prime Video",
+        "s2p2_1":"Watch on (with ads)",
+        "s2p2_2":"Buy ad-free at extra cost",
+        "s2p2_3":"Number of devices*",
+        "s2p2_4":"Video Quality",
+        "s2img3":"https://m.media-amazon.com/images/I/61PsuX-GszL.jpg",
+        "s2h3":"Prime Music",
+        "s2p3":"100M songs & 15M+ podcasts",
+        "s2img4":"https://m.media-amazon.com/images/I/31ehouWpIWL.png",
+        "s2h4":"Prime Shopping",
+        "s2p4_1":"Up to 10% off with Prime offers",
+        "s2p4_2":"Early access to shopping events",
+        "s2p4_3":"Unlimited 5% Cashback on Amazon Pay Credit Card",
+        "s2img5":"https://m.media-amazon.com/images/I/613uJSHP++L.png",
+        "s2h5":"Prime Reading",
+        "s2p5":"FREE eBooks on Kindle app",
+        "s2img6":"https://m.media-amazon.com/images/I/514wv2iKo7L.png",
+        "s2h6":"Amazon Luna",
+        "s2p6":"Discover and claim PC games"
+    }
+    ,
+    {
+        "id":3,
+        "s3h0":"Frequently Asked Questions",
+        "s3h1":"What happens if I join a plan and later realize i want other benefits also and want to switch to another plan?",
+        "s3p1_1":"You can seamlessly upgrade from",
+        "s3p1_2":"1. Prime Shopping edition to Prime or Prime Lite plans",
+        "s3p1_3":"2. Prime Lite to Prime plans",
+        "s3p1_4":"anytime during your membership period. You need to visit https://www.amazon.in/prime to upgrade.",
+        "s3h2":"How do I buy Prime Video ad-free?",
+        "s3p2_1":"Prime members can buy Ad-free by visiting ‘primevideo.com/your-account’ on Prime Video and selecting ‘Go Ad-Free’. Once subscribed, your linked profiles won’t see ads during on-demand movies and TV shows (except for skippable promotional trailers).",
+        "s3p2_2":"Note: Prime Lite members need to upgrade to Prime to access Ad-Free. Some content, like TV and free ad-supported programming, will continue to show ads.",
+        "s3h3":"How do I cancel my plan?",
+        "s3p3":"If you signed-up for your Prime membership directly through us, you may cancel your Prime membership at any time by visiting https://www.amazon.in/mc.",
+        "s3h4":"How many devices can be used simultaneously on a Prime subscription?",
+        "s3p4":"You can access shopping benefits simultaneously without any restrictions. Under Prime Lite plan, you can access video benefits on only 1 device. Under Prime plan, you can access video benefit on upto 5 devices including 2 TVs. You can use music benefits on only 1 device simultaneously.",
+        "s3h5":"Can I turn off/on auto-renewal during the course of my membership?",
+        "s3p5":"Yes, you can manage your auto-renewal selection and turn it on/off as per your choice during the course of your membership on ( https://www.amazon.in/mc ). If you have got your membership through a telecom partner or billed through Google - please contact the respective partner to make changes to your auto-renewal mandate."
+    }
+    ,
+    {
+        "id": 4,
+
+        "s4h0": "Check out what's included with Prime:",
+
+        "s4img1": "https://m.media-amazon.com/images/I/41HuFm5jyOL.png",
+        "s4h1": "Fast, free delivery",
+        "s4p1": "Enjoy Same-Day, One-Day, and Two-Day <br> Delivery on millions of items.",
+
+        "s4img2": "https://m.media-amazon.com/images/I/41W--MRY7VL.png",
+        "s4h2": "Popular movies & shows",
+        "s4p2": "New releases. Award-winning Amazon <br> Originals. Watch what you love on your <br> favorite devices.",
+
+        "s4img3": "https://m.media-amazon.com/images/I/41W--MRY7VL.png",
+        "s4h3": "Exclusive deals & savings",
+        "s4p3": "Enjoy daily deals on thousands of items and <br> access exclusive savings events like Prime Day."
+    }
+    ,
+    {
+        "id": 5,
+
+        "s5h0": "More Prime benefits",
+
+        "s5img1": "https://m.media-amazon.com/images/I/01qxUBiPdqL.png",
+        "s5h1": "Prime Music",
+        "s5p1": "Get the largest catalog of music & top <br> podcasts. Pick & play any artist, album, or <br> playlist on Amazon Music with unlimited skips.",
+
+        "s5img2": "https://m.media-amazon.com/images/I/0149xEBwBjL.png",
+        "s5h2": "Amazon Luna",
+        "s5p2": "Discover and claim PC games",
+
+        "s5img3": "https://m.media-amazon.com/images/I/01e0B6BDVLL.png",
+        "s5h3": "Prime Reading",
+        "s5p3": "Read as much as you want from hundreds of <br> eligible ebooks, comics and more for free."
+    }
+]

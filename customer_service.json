@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+
+    "s1p1": "You can view the content of this page in your preferred language, by clicking here. For detailed steps on how to change your language settings, see our <a href='#'>Help</a> page.",
+
+    "s1p2": "For information on our live sale events, including promotions, deals, cashbacks, and quick solutions, refer to our Help page on <a href='#'>Sale Events</a>.",
+
+    "s1p3": "For support during your shopping journey, refer to the <a href='#'>Customer Service - Frequently Asked Questions</a> Help page."
+  }
+  ,
+  {
+    "id": 2,
+
+    "s2h1": "Hello. What can we help you with?",
+
+    "s2h2": "Some things you can do here",
+
+    "s2img1": "https://m.media-amazon.com/images/G/31/x-locale/cs/help/images/gateway/Box-t3.png",
+    "s2b1h1": "Your Order",
+    "s2b1p1": "Track packages",
+    "s2b1p2": "Edit or cancel orders",
+
+    "s2img2": "https://m.media-amazon.com/images/G/31/x-locale/cs/help/images/gateway/returns-box-blue.png",
+    "s2b2h1": "Returns and Refunds",
+    "s2b2p1": "Return or exchange items",
+    "s2b2p2": "Print return mailing labels",
+
+    "s2img3": "https://m.media-amazon.com/images/G/31/x-locale/cs/help/images/gateway/manage-address.png",
+    "s2b3h1": "Manage Addresses",
+    "s2b3p1": "Update your addresses",
+    "s2b3p2": "Add address, landmark details",
+
+    "s2img4": "https://m.media-amazon.com/images/G/31/x-locale/cs/help/images/gateway/Prime_clear-bg.png",
+    "s2b4h1": "Prime",
+    "s2b4p1": "View Prime benefits",
+    "s2b4p2": "Manage membership",
+
+    "s2img5": "https://m.media-amazon.com/images/G/31/x-locale/cs/help/images/gateway/Payments_clear-bg-t3.png",
+    "s2b5h1": "Payment Settings",
+    "s2b5p1": "Add or remove payment methods",
+    "s2b5p2": "Manage billing details",
+
+    "s2img6": "https://m.media-amazon.com/images/G/31/x-locale/cs/help/images/gateway/IN-your-account.png",
+    "s2b6h1": "Your Account",
+    "s2b6p1": "Update account information",
+    "s2b6p2": "Change account settings",
+
+    "s2img7": "https://m.media-amazon.com/images/G/31/x-locale/cs/help/images/gateway/family_device.png",
+    "s2b7h1": "Devices and Content",
+    "s2b7p1": "Manage your devices",
+    "s2b7p2": "Access digital content"
+    
+  }
+]

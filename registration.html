@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Registration page</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favorite icon  -->
+    <link rel="icon" href="https://thumbs.dreamstime.com/b/amazon-logo-editorial-illustrative-white-background-eps-download-vector-jpeg-banner-ai-amazon-logo-editorial-illustrative-208329107.jpg">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+</head>
+  <body>
+
+
+
+
+    <!-- Section 1 -->
+
+    <div class="section1">
+        <div class="container-fluid">
+        <h1 class="text-center"><img src="https://m.media-amazon.com/images/G/31/rainier/nav/sc-unified._CB485930462_.png" class="img-fluid" alt=""></h1>
+        <div class="box1 p-4 mx-auto mb-5"  style="border: 1px solid  #d5d9d9; border-radius: 8px; max-width:350px;">
+            <h3>Create account</h3>
+            <b>Your name</b>
+            <input  type="text" id="name" placeholder="first and last name" class="form-control mb-1">
+            <p id="nameerror" style="color: red;"></p> 
+            <b>Email</b>
+            <input type="email" id="email"  class="form-control mb-1">
+            <p id="emailerror" style="color: red;"></p> 
+            <b>Password</b>
+            <input type="password" id="pass" placeholder="At least 6 characters" class="form-control mb-1">
+            <p id="passerror" style="color: red;"></p> 
+            <b>Password again</b>
+            <input type="password" id="cpass"  class="form-control mb-1">
+            <p id="cpasserror" style="color: red;"></p> 
+            <a href="#" class="btn btn-warning btn-block py-2 " id="submit" style=" border-radius: 20px;">Create your Amazon account</a> <br>
+            <div><small>By creating an account or logging in, you agree to Amazon’s <span><a href="#">Conditions of Use</a></span> and <span><a href="#">Privacy Policy</a></span>.</small></div><br>
+            <hr class="mt-0" style="background-color: #d5d9d9;">
+           <small>Already have an account? <span><a href="signin.html">Sign in</a></span></small>
+        </div>
+        <hr style="background-color: #d5d9d9;">
+        <div class="d-flex justify-content-center">
+            <a href="#"><small class="mr-3">Conditions of use</small></a>
+            <a href="#"><small class="mr-3">Privacy notice</small></a>
+            <a href="#"><small>Help</small></a>
+        </div>
+        <p class="text-center"><small>© 1996–2026, Amazon.com, Inc. or its affiliates</small></p>
+        </div>
+    </div>
+
+
+
+    <script>
+    $(document).ready(function(){
+        $("#submit").click(function(e){
+
+            e.preventDefault();
+
+            let name = $("#name").val();
+            let email = $("#email").val();
+            let pass = $("#pass").val();
+            let cpass = $("#cpass").val();
+
+            let checkname = /^[A-Za-z ]{3,}$/;
+            let checkemail = /^[^ ]+@[^ ]+\.[a-z]{2,3}$/;
+            let checkpass = /^(?=.*[A-Za-z])(?=.*\d)[A-Za-z\d]{6,}$/;
+
+            $("#nameerror").html("");
+            $("#emailerror").html("");
+            $("#passerror").html("");
+            $("#cpasserror").html("");
+
+            let isValid = true;
+
+            if(name == ""){
+                $("#nameerror").html("Enter your name");
+                isValid = false;
+            }
+            else if(!checkname.test(name)){
+                $("#nameerror").html("Enter valid name");
+                isValid = false;
+            }
+
+            if(email == ""){
+                $("#emailerror").html("Enter your email");
+                isValid = false;
+            }
+            else if(!checkemail.test(email)){
+                $("#emailerror").html("Enter valid email");
+                isValid = false;
+            }
+
+            if(pass == ""){
+                $("#passerror").html("Enter password");
+                isValid = false;
+            }
+            else if(!checkpass.test(pass)){
+                $("#passerror").html("Password must contain letters and numbers");
+                isValid = false;
+            }
+
+            if(cpass == ""){
+                $("#cpasserror").html("Enter confirm password");
+                isValid = false;
+            }
+            else if(pass != cpass){
+                $("#cpasserror").html("Passwords do not match");
+                isValid = false;
+            }
+
+            if(isValid){
+                alert("Registration Successful");
+            }     
+        });
+
+    });
+    </script>
+
+
+
+      
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
